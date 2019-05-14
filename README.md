@@ -1,15 +1,17 @@
 # Previous Knowledge:
 Linux/UNIX Command Line Utilities
-HTML/CSS
-JavaScript
-Git: Intro
-Vim (Basics)
+C++ (Proficient)
+HTML/CSS (Proficient)
+JavaScript (Proficient)
+Python (Moderate)
+Git
+Vim
 
-# Completed:
+# Completed Tutorials
 Python: Intro
 Flask
 WordPress: User
-Google App Scripting (Just JavaScript with API Functions)
+Google App Scripting (Similar to JS)
 
 # TODO:
 WordPress Developr
@@ -17,4 +19,5 @@ WordPress Developr
 * PHP
 * WordPress: PlugIn Update
 
-Google App Scripting
+Google Sites
+jQuery
