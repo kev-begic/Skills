@@ -14,9 +14,9 @@
 * Google App Scripting (Similar to JS)
 
 # TODO:
-*WordPress Developr
-** MySql
-** PHP
-** WordPress: PlugIn Update
+* WordPress Developr
+* MySql
+* PHP
+* WordPress: PlugIn Update
 * Google Sites
 * jQuery
