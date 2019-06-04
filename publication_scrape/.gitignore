@@ -1,0 +1,4 @@
+files/
+venv/
+.vscode/
+*.txt
